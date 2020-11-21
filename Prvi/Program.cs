@@ -6,7 +6,7 @@ namespace Prvi
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! Promjena na prvom...");
+            Console.WriteLine("Hello World! Promjena na prvom... 123");
         }
     }
 }

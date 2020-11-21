@@ -6,7 +6,7 @@ namespace drugi
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Drugi Hello World! Promjena na drugom...");
+            Console.WriteLine("Drugi Hello World! Promjena na drugom... 456");
         }
     }
 }
