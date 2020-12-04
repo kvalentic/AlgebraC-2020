@@ -36,15 +36,15 @@ namespace _01_domaci_zadatak
             rezRazlika = prviBroj - drugiBroj;
 
             Console.WriteLine("Zbroj unesenih brojeva je: {0} ", rezZbbrj);
-             Console.WriteLine("Razlika unesenih brojeva je: {0} ", rezRazlika);
+            Console.WriteLine("Razlika unesenih brojeva je: {0} ", rezRazlika);
 
             //5.1.2 - Umnožak i kvocijent
             //Program koji traži unos 2 cijela broja i prikazuje 
             //umnožak i kvocijent
-            
+
             Console.WriteLine("Unesi prvi broj: ");
             prviBroj = int.Parse(Console.ReadLine());
-            
+
             Console.WriteLine("Unesi drugi broj: ");
             drugiBroj = int.Parse(Console.ReadLine());
 
@@ -52,8 +52,8 @@ namespace _01_domaci_zadatak
             float rezKvocijent;
 
             rezUmnozak = prviBroj * drugiBroj;
-            rezKvocijent = (float)prviBroj / (float)drugiBroj; 
-            
+            rezKvocijent = (float)prviBroj / (float)drugiBroj;
+
             Console.WriteLine("Umnožak unesenih brojeva je: {0} ", rezUmnozak);
             Console.WriteLine("Kvocijent unesenih brojeva je: {0} ", rezKvocijent);
 
