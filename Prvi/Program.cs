@@ -6,9 +6,6 @@ namespace Prvi
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
-            Console.WriteLine("Hello World! Promjena na prvom... 123");
-=======
             Console.WriteLine("Hello World!");
             Console.WriteLine("Evo dopunio sam!");
             Automobil a1 = new Automobil();
@@ -30,7 +27,6 @@ namespace SecondNamespace
         public void Tester(string[] args)
         {
             Console.WriteLine("Hello World!");
->>>>>>> c59571a1f83baeb9b5ce77c63a39361f8e747b42
         }
     }
 }
