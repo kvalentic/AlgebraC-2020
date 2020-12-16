@@ -29,11 +29,11 @@ namespace Kolaci_App
             k2.TrajanjePecenja = 5;
 
             Rerna.Ispeci(ref k2);
-
             Rerna.IspisiPodatkeOKolacima();
 
+            k1.DodajSastojak("Limun 1", 100);
+            k2.DodajSastojak("Limun 2", 100);
             Console.ReadKey();
-
         }
     }
 }

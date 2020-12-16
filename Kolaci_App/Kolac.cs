@@ -22,7 +22,13 @@ namespace Kolaci_App
         public void DodajSastojak(string nazivSastojka, int kolicinaSastojka)
         {
             if (sastojci == null) sastojci = new Dictionary<string, int>();
-            if(!pecen) sastojci.Add(nazivSastojka, kolicinaSastojka);
+            if (!pecen) { 
+                sastojci.Add(nazivSastojka, kolicinaSastojka);
+            }
+            else
+            {
+                Console.WriteLine("Kolač {0} je pečen, ne možete dodati sastojak {1}", _nazivKolaca, nazivSastojka);
+            }
         }
     }
 }
