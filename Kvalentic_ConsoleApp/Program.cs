@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -21,7 +22,6 @@ namespace Kvalentic_ConsoleApp
             VarijableClass vc = new VarijableClass();
             vc._5_1_1_Zbroj_i_razlika();
             vc._5_1_2_Umnožak_i_kvocijent();
-
         }
 
         public static void UvjetnoGrananje()
@@ -31,8 +31,5 @@ namespace Kvalentic_ConsoleApp
             ug._5_2_2_Kalkulator();
 
         }
-
-
-
     }
 }
