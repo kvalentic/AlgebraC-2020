@@ -115,7 +115,6 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08_02_02_reference", "08_02_02_reference\08_02_02_reference.csproj", "{BACD8A3D-BBAB-411C-BA9C-C58D428F8784}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08_02_out", "08_02_out\08_02_out.csproj", "{EDB73A2A-0F2F-420F-AF94-F72FA83C2005}"
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08_02_out", "08_02_out\08_02_out.csproj", "{EDB73A2A-0F2F-420F-AF94-F72FA83C2005}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Zadace", "Zadace", "{58236280-B019-4DE4-B2D2-5F0976E218E2}"
 EndProject
@@ -147,25 +146,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08_multicast_delegate", "08
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08_dogadjaji_veci", "08_dogadjaji_veci\08_dogadjaji_veci.csproj", "{EEA6A88D-F1FF-4B68-9A9E-53E0E0D38A67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vozila.Konzola", "Vozila.Konzola\Vozila.Konzola.csproj", "{B69F7EA0-2CD2-4584-9EC9-2CDE68365C5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vozila.Konzola", "Vozila.Konzola\Vozila.Konzola.csproj", "{B69F7EA0-2CD2-4584-9EC9-2CDE68365C5D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Vozila", "Vozila", "{28AEA3E1-6C29-4D29-B668-368F63B54A3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vozila.Model", "Vozila.Model\Vozila.Model.csproj", "{72143A8A-2CEA-422F-9B4B-C74E6AE9719D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vozila.Model", "Vozila.Model\Vozila.Model.csproj", "{72143A8A-2CEA-422F-9B4B-C74E6AE9719D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vozila.Win32", "Vozila.Win32\Vozila.Win32.csproj", "{7D5E6045-BB49-4275-9006-6B719367BD4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vozila.Win32", "Vozila.Win32\Vozila.Win32.csproj", "{7D5E6045-BB49-4275-9006-6B719367BD4C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "alg-09-String", "alg-09-String", "{54203937-1624-4EF6-9A27-4531BBB1DDB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_string", "09_string\09_string.csproj", "{59E772E9-66C2-45E4-A40C-0C640E1E727A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09_string", "09_string\09_string.csproj", "{59E772E9-66C2-45E4-A40C-0C640E1E727A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_osoba", "09_osoba\09_osoba.csproj", "{D78EFB19-D077-4687-BB4B-13463C2E6D24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09_osoba", "09_osoba\09_osoba.csproj", "{D78EFB19-D077-4687-BB4B-13463C2E6D24}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "alg-10-datoteke", "alg-10-datoteke", "{268F6A4C-0F49-4DBF-A23E-9BA845F8456B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_datoteka", "10_datoteka\10_datoteka.csproj", "{F3A9FC54-27DC-4F6B-901C-5DA81662263F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10_datoteka", "10_datoteka\10_datoteka.csproj", "{F3A9FC54-27DC-4F6B-901C-5DA81662263F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_Fileovi_datoteke", "10_Fileovi_datoteke\10_Fileovi_datoteke.csproj", "{F619AAC8-2A51-4C24-84C7-D224697D844A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10_Fileovi_datoteke", "10_Fileovi_datoteke\10_Fileovi_datoteke.csproj", "{F619AAC8-2A51-4C24-84C7-D224697D844A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -365,6 +364,10 @@ Global
 		{EDB73A2A-0F2F-420F-AF94-F72FA83C2005}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDB73A2A-0F2F-420F-AF94-F72FA83C2005}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDB73A2A-0F2F-420F-AF94-F72FA83C2005}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E08B8D16-637A-4E34-8F16-73C563AB8A79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E08B8D16-637A-4E34-8F16-73C563AB8A79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E08B8D16-637A-4E34-8F16-73C563AB8A79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E08B8D16-637A-4E34-8F16-73C563AB8A79}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C0A38C19-00A7-42DD-A03B-D13BE420BA33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C0A38C19-00A7-42DD-A03B-D13BE420BA33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0A38C19-00A7-42DD-A03B-D13BE420BA33}.Release|Any CPU.ActiveCfg = Release|Any CPU
